@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+*italic*
+_classy_
 
 {% include 01-name.md %}
 
@@ -11,4 +13,7 @@ layout: default
 <br>
 
 {% include 03-links.md %}
+**emph1**
+__emph2__
 
+_big **emph** together_
