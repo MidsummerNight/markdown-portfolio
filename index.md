@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-*This text will be italic*
-_This will also be italic_
+*italic*
+_classy_
 
 {% include 01-name.md %}
 
@@ -13,7 +13,7 @@ _This will also be italic_
 <br>
 
 {% include 03-links.md %}
-**This text will be bold**
-__This will also be bold__
+**emph1**
+__emph2__
 
-_You **can** combine them_
+_big **emph** together_
